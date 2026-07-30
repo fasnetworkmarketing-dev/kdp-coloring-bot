@@ -1,0 +1,4 @@
+python-telegram-bot
+google-genai
+reportlab
+requests
